@@ -1,6 +1,6 @@
 [
     {
-        "image": "assets/cherries.png",
+        "image": "assets/chili.png",
         "name": "chili"
     },
     {
@@ -32,7 +32,7 @@
         "name": "watermelon"
     },
     {
-        "image": "assets/chili.png",
+        "image": "assets/cherries.png",
         "name": "cherries"
     }
 ]
